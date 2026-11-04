@@ -65,4 +65,11 @@ Explore our circuit through the interactive simulation:
 
 [View CircuitVerse Project](https://circuitverse.org/users/457592/projects/project-morse-d86389ac-fc89-4a03-bbcc-0d204ef2f90e/simulator/embed)
 
+## 📸 Project Prototype
+
+![A](A.jpg)
+![S](S.jpg)
+![O](O.jpg)
+![Y](Y.jpg)
+
 
