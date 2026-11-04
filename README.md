@@ -55,4 +55,14 @@ The design can be further expanded to support additional alphabets.
 - Adding support for numbers and special characters.
 - Implementing a more advanced display system.
 
+## 🔌 Circuit Diagram
+
+![Circuit Diagram](Images/circuit diagram.png)
+
+## 🔗 CircuitVerse Simulation
+
+Explore our circuit through the interactive simulation:
+
+[View CircuitVerse Project](https://circuitverse.org/users/457592/projects/project-morse-d86389ac-fc89-4a03-bbcc-0d204ef2f90e/simulator/embed)
+
 
